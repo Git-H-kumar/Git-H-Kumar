@@ -20,7 +20,7 @@
 - 🔭 **Current Project:** [JobFit-AI](https://github.com/Git-H-kumar/JobFit-AI) — AI-assisted interview preparation platform powered by Google Gemini API.
 - 🌱 **Learning Focus:** Next.js, Redux Toolkit, and Docker.
 - 💬 **Core Expertise:** React, Node.js, Express.js, MongoDB, JWT Authentication, and REST APIs.
-- 📫 **Contact:** [hkp190803@gmail.com](mailto:hkp190803@gmail.com)
+- 📫 **Contact:** [hkp190803@gmail.com](mailto:harshit.kumar.devv@gmail.com)
 
 ---
 
