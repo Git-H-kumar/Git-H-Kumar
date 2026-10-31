@@ -48,9 +48,6 @@ An interview preparation and candidate evaluation platform integrated with the G
 
 ---
 
-### GitHub Activity
+### GitHub Metrics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=git-h-kumar&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Harshit's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-h-kumar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+*Because third-party SVG endpoints frequently hit public rate limits or encounter service interruptions, metrics can be tracked via standard repository documentation or your active contribution graph directly on [GitHub](https://github.com/Git-H-kumar).*
