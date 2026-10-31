@@ -1,5 +1,5 @@
 <h1 align="center">Harshit Kumar</h1>
-<h3 align="center">Full-Stack Developer (MERN Stack)</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/h-kumar-" target="_blank">
@@ -15,37 +15,40 @@
 
 ---
 
-### 👨‍💻 Overview
+### Profile
 
-- 🔭 **Current Project:** [JobFit-AI](https://github.com/Git-H-kumar/JobFit-AI) — AI-assisted interview preparation platform powered by Google Gemini API.
-- 🌱 **Learning Focus:** Next.js, Redux Toolkit, and Docker.
-- 💬 **Core Expertise:** React, Node.js, Express.js, MongoDB, JWT Authentication, and REST APIs.
-- 📫 **Contact:** [hkp190803@gmail.com](mailto:harshit.kumar.devv@gmail.com)
+Software engineer specializing in the MERN stack, focused on building backend services, secure authentication workflows, and full-stack applications. Currently expanding technical competencies to include Next.js, Redux Toolkit, and Docker.
+
+- **Contact:** [harshit.kumar.devv@gmail.com](mailto:harshit.kumar.devv@gmail.com)
+- **Primary Project:** [JobFit-AI](https://github.com/Git-H-kumar/JobFit-AI)
 
 ---
 
-### 🚀 Projects
+### Technical Competencies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Core** | JavaScript (ES6+), C++, Java, HTML5, CSS3 |
+| **Backend & Database** | Node.js, Express.js, MongoDB, Mongoose, RESTful APIs |
+| **Frontend** | React, Redux, Next.js, Tailwind CSS |
+| **Infrastructure & Tools** | Git, GitHub, Docker, Postman, Vercel, Render |
+| **Design Tools** | Adobe Photoshop, Adobe Illustrator |
+
+---
+
+### Projects
 
 #### **[JobFit-AI](https://job-fit-ai-gray.vercel.app)** | [Source Code](https://github.com/Git-H-kumar/JobFit-AI)
-Full-stack web application designed for candidate evaluation and interview workflows using Google Gemini API.
+An interview preparation and candidate evaluation platform integrated with the Google Gemini API.
 
-* **Stack:** React, Vite, Node.js, Express.js, MongoDB
-* **Architecture:** Cross-origin HTTP-only cookie authentication with JWT, REST backend deployed on Render, React SPA frontend hosted on Vercel.
-
----
-
-### 🛠️ Technical Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux, Next.js |
-| **Backend & DB** | Node.js, Express.js, MongoDB, Mongoose, C++, Java |
-| **DevOps & Tools** | Git, GitHub, Docker, Postman, Render, Vercel |
-| **Design** | Adobe Photoshop, Adobe Illustrator |
+- **Stack:** React, Vite, Node.js, Express.js, MongoDB
+- **Engineering Implementation:**
+  - Implemented session management utilizing JSON Web Tokens (JWT) stored in HTTP-only, secure cookies.
+  - Developed a decoupled client-server architecture with the REST API deployed on Render and the frontend hosted on Vercel.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=git-h-kumar&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Harshit's GitHub Stats" />
