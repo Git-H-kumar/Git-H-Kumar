@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/h-kumar-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hkp190803@gmail.com">
+  <a href="mailto:harshit.kumar.devv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://job-fit-ai-gray.vercel.app" target="_blank">
