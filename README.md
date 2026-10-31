@@ -48,6 +48,12 @@ An interview preparation and candidate evaluation platform integrated with the G
 
 ---
 
-### GitHub Metrics
+### GitHub Activity & Metrics
 
-*Because third-party SVG endpoints frequently hit public rate limits or encounter service interruptions, metrics can be tracked via standard repository documentation or your active contribution graph directly on [GitHub](https://github.com/Git-H-kumar).*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-h-kumar&theme=transparent" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=git-h-kumar&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
